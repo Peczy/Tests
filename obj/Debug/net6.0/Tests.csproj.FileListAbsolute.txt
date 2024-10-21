@@ -1,0 +1,15 @@
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.csproj.AssemblyReference.cache
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.AssemblyInfoInputs.cache
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.AssemblyInfo.cs
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.csproj.CoreCompileInputs.cache
+/Users/pecz/Documents/GitHub/Tests/bin/Debug/net6.0/Tests
+/Users/pecz/Documents/GitHub/Tests/bin/Debug/net6.0/Tests.deps.json
+/Users/pecz/Documents/GitHub/Tests/bin/Debug/net6.0/Tests.runtimeconfig.json
+/Users/pecz/Documents/GitHub/Tests/bin/Debug/net6.0/Tests.dll
+/Users/pecz/Documents/GitHub/Tests/bin/Debug/net6.0/Tests.pdb
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.dll
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/refint/Tests.dll
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.pdb
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/Tests.genruntimeconfig.cache
+/Users/pecz/Documents/GitHub/Tests/obj/Debug/net6.0/ref/Tests.dll
